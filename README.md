@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Olá! Que bom te ver por aqui.</h1>
 
 
-<p>Welcome to my page! </br> I'm Kleber Gracia Soares, Desenvolvedor Fullstack <img src="https://galaxyz.com.br/images/brasil.png" width="13"/> <b>Mandaguari, Paraná</b>, <b>Brasil</b>. </p>
+<p>Bem vindo a minha Página! </br> Eu sou Kleber Gracia Soares, Desenvolvedor Engenheiro de Software e Desenvolvedor Fullstack <img src="https://galaxyz.com.br/images/brasil.png" width="13"/> <b>Mandaguari, Paraná</b>, <b>Brasil</b>. </p>
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
