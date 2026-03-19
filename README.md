@@ -2,7 +2,7 @@
 
 
 <p>Bem vindo a minha Página! </br> Eu sou Kleber Gracia Soares, Desenvolvedor Engenheiro de Software e Desenvolvedor Fullstack <img src="https://galaxyz.com.br/images/brasil.png" width="13"/> <b>Mandaguari, Paraná</b>, <b>Brasil</b>. </p>
-<h3>Linguagens Frameworks e Matodologia utilizadas para desenvolvimento</h3>
+<h3>Linguagens, Frameworks e Matodologia utilizadas para desenvolvimento</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
