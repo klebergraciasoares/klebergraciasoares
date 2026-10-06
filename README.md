@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kleber Gracia Soares</h1>
-<h3 align="center">Profissional da Área de Tecnologia, atua em manter e desenvolver soluções com padrões de Softwares.</h3>
+<h3 align="center">Profissional da Área de Tecnologia, atua em orquestrar, manter e desenvolver soluções com padrões de Softwares.</h3>
 
 - 🔭 Galaxyz Softwares Group [Galaxyz Engine v1.0](www.galaxyz.com.br)
 
